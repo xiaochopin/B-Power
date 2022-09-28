@@ -2,7 +2,7 @@
 
 >The future of the Internet
 
-English|[中文](https://github.com/xiaochopin/B/blob/main/README_zh.md)
+English|[中文](https://github.com/xiaochopin/B-Power/blob/main/README_zh.md)
 
 >The translation result is from Google Translate, there may be some errors with the original text.
 
