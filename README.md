@@ -10,7 +10,7 @@ English | [中文](https://github.com/xiaochopin/B-Power/blob/main/README_zh.md)
 
 ### Background
 
-`B Power` is a Github repository created by [Chopin](https://github.com/xiaochopin/).
+`B Power` is a `Github repository` created by [Chopin](https://github.com/xiaochopin/).
 
 ### Introduce
 
