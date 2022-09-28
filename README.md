@@ -34,4 +34,4 @@ Clone the repository, package it into a compressed package file, change the name
 
 ## Features
 
-Concise and visible to the naked eye.
+Concise,as you can see.
