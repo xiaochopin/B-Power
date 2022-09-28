@@ -2,7 +2,7 @@
 
 >互联网的未来
 
-[Endlish](https://github.com/xiaochopin/B-Power/blob/main/README.md)|中文
+[Endlish](https://github.com/xiaochopin/B-Power/blob/main/README.md) | 中文
 
 ## 概述
 
