@@ -8,7 +8,7 @@
 
 ### 背景
 
-`B Power`是一个储存在Github仓库的项目,由[Chopin](https://github.com/xiaochopin/)创建.
+`B Power`是一个储存在`Github仓库`的项目,由[Chopin](https://github.com/xiaochopin/)创建.
 
 ### 介绍
 
